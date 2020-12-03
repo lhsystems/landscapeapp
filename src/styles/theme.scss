@@ -308,6 +308,9 @@ body.embed {
   flex-wrap: wrap;
 }
 
+.big-picture-section .oss img {background: white; height: 60px !important; width: 68px !important;}
+.big-picture-section .nonoss img {background: #E4E4E4; height: 60px !important; width: 68px !important;}
+
 .oss img {background: white;}
 .nonoss img {background: #E4E4E4;}
 
